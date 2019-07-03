@@ -3,11 +3,13 @@ layout: splash
 permalink: /
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/ab-home-page-feature.jpg
+  overlay_image: /assets/images/mm-home-page-feature.jpg
   actions:
-    - label: "Learn More"
+    - label: "<i class='fas fa-download'></i> Install now"
       url: "/docs/quick-start-guide/"
-excerpt: >creando oportunidades a partir de los residuos plasticos<br/>
+excerpt: >
+  A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
+  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.16.4">Latest release v4.16.4</a></small>
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "customizable"
@@ -33,6 +35,3 @@ feature_row:
 ---
 
 {% include feature_row %}
-
-<h1>Lorem ipsum dolor</h1> 
- sit amet, consectetuer adipiscing elit. Donec mollis. Quisque convallis libero in sapien pharetra tincidunt. Aliquam elit ante, malesuada id, tempor eu, gravida id, odio. Maecenas suscipit, risus et eleifend imperdiet, nisi orci ullamcorper massa, et adipiscing orci velit quis magna. Praesent sit amet ligula id orci venenatis auctor. Phasellus porttitor, metus non tincidunt dapibus, orci pede pretium neque, sit amet adipiscing ipsum lectus et libero. Aenean bibendum. Curabitur mattis quam id urna. Vivamus dui. Donec nonummy lacinia lorem. Cras risus arcu, sodales ac, ultrices ac, mollis quis, justo. Sed a libero. Quisque risus erat, posuere at, tristique non, lacinia quis, eros.
