@@ -7,7 +7,7 @@ date: 2016-02-24T03:02:20+00:00
 {% include figure image_path="/assets/images/altebrijes-logo-500px.png" alt="this is a placeholder image" caption="This is a figure caption." %}
 <div style="text-align: justify;">
 
-<h1>QUÉ ESTAMOS HACIENDO?</h1>
+<h1>¿QUÉ ESTAMOS HACIENDO?</h1>
 
 
 Tras varios estudios realizados en el Barrio de El Alto de Puebla, el grupo ALTEBRIJES ha detectado grandes márgenes de mejora en lo que al reciclaje se refiere. Gran parte de los residuos generados por los y las vecinos de dicha comunidad están siendo gestionados de una manera poco efiente, lo cual ha arrastrado al barrio a un estado de insalubridad y deterioro patrimonial.
@@ -17,7 +17,7 @@ Los sistemas de gestión y separación de residuos actuales, dejan ver la falta 
 Por ello, el grupo ALTEBRIJES ha desarrollado un sistema de reciclaje PET con el cual los y las usuarios podrán reducir el volumen de  sus residuos a la vez que generar ingresos con los mismos.  
 Esta herramienta innovadora y frugales incluye un sistema de tratamiento de los envases de plástico, iniciandolo así con un proceso de limpieza y tratado de los envases, seguido de un  proceso de corte y envasado. 
 A su vez, el Grupo Altebrijes apuesta por concienciar del daño que ocasionan en el medio ambiente las malas practicas en la gestión de residuos, ala vez de mostrar las oportunidades que estos residuos nos ofrecen. 
-
+</br>
 
 <h1>ACERCA DE NOSOTROS</h1>
 
