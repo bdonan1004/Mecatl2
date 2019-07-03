@@ -7,7 +7,7 @@ header:
   actions:
     - label: "Learn More"
       url: "/docs/quick-start-guide/"
-excerpt: >creando oportunidades a partir de los residuos plasticos
+excerpt: >creando oportunidades a partir de los residuos plasticos<br/>
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "customizable"
