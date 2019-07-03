@@ -17,7 +17,7 @@ Los sistemas de gestión y separación de residuos actuales, dejan ver la falta 
 Por ello, el grupo ALTEBRIJES ha desarrollado un sistema de reciclaje PET con el cual los y las usuarios podrán reducir el volumen de  sus residuos a la vez que generar ingresos con los mismos.  
 Esta herramienta innovadora y frugales incluye un sistema de tratamiento de los envases de plástico, iniciandolo así con un proceso de limpieza y tratado de los envases, seguido de un  proceso de corte y envasado. 
 A su vez, el Grupo Altebrijes apuesta por concienciar del daño que ocasionan en el medio ambiente las malas practicas en la gestión de residuos, ala vez de mostrar las oportunidades que estos residuos nos ofrecen. 
-</br>
+<br>
 
 <h1>ACERCA DE NOSOTROS</h1>
 
