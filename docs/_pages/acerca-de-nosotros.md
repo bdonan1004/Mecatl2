@@ -4,7 +4,7 @@ permalink: /acerca-de-nosotros/
 date: 2016-02-24T03:02:20+00:00
 --- 
 
-![image-center](https://github.com/bdonan1004/Mecatl2/blob/master/docs/assets/images/altebrijes-logo-500px.png){: .align-center}
+![image-center](/assets/images/altebrijes-logo-500px.png){: .align-center}
 
 <h1>QUÉ ESTAMOS HACIENDO?</h1>
 
