@@ -4,7 +4,7 @@ permalink: /acerca-de-nosotros/
 date: 2016-02-24T03:02:20+00:00
 ---
 
-<img src="/assets/images/altebrijes-logo copy-500px.png" alt="altebrijes-logo">
+<img src="/assets/images/altebrijes-logo-500px.png" alt="altebrijes-logo">
 
 <h1>QUÉ ESTAMOS HACIENDO?</h1>
 
