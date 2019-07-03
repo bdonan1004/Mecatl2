@@ -11,5 +11,4 @@ toc: true
 <div style="text-align: justify;">
 Este dispositivo facilita la conversión de botellas de plástico en cuerdas. El dispositivo funciona en botellas de plástico de varios tamaños. Creamos esta división porque nos apasiona el reciclaje y dar a la gente la posibilidad de crear.
 </div>
-<br>
 
