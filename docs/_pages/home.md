@@ -20,7 +20,7 @@ feature_row:
     
   - image_path: /assets/images/monedas.png
     alt: "Una nueva forma de ganar dinero
-    title: "Monedas
+    title: "Monedas"
     excerpt: "Ayudar a la gente a vender sus artesanías para ayudarles a obtener ingresos"
         
 ---
