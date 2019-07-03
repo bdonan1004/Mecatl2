@@ -3,7 +3,7 @@ layout: splash
 permalink: /
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/ab-home-page-feature.jpg
+  overlay_image: /assets/images/ab-home-page-feature.png
   actions:
     - label: "Learn More"
       url: "/docs/quick-start-guide/"
