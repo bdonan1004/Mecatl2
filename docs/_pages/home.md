@@ -3,12 +3,11 @@ layout: splash
 permalink: /
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/ab-home-page-feature.png
+  overlay_image: /assets/images/ab-home-page-feature.jpg
   actions:
     - label: "Learn More"
       url: "/docs/quick-start-guide/"
-excerpt: >creando oportunidades a partir de los residuos plasticos<br />
-
+excerpt: >creando oportunidades a partir de los residuos plasticos
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "customizable"
