@@ -23,7 +23,7 @@ main:
   - title: "Acerca De Nosotros"
     url: /acerca-de-nosotros/
   - title: "Producto"
-    url: /about/
+    url: /producto/
   - title: "Instrucciones"
     url: /year-archive/
   - title: "Uso y Benficios"
