@@ -3,7 +3,7 @@ title: "Acerca De Nosotros"
 permalink: /acerca-de-nosotros/
 date: 2016-02-24T03:02:20+00:00
 ---
-
+- image_path: /assets/images/altebrijes-logo copy-500px.png
 <h1>QUÉ ESTAMOS HACIENDO?</h1>
 
 Tras varios estudios realizados en el Barrio de El Alto de Puebla, el grupo ALTEBRIJES ha detectado grandes márgenes de mejora en lo que al reciclaje se refiere. Gran parte de los residuos generados por los y las vecinos de dicha comunidad están siendo gestionados de una manera poco efiente, lo cual ha arrastrado al barrio a un estado de insalubridad y deterioro patrimonial.
