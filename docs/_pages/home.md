@@ -8,12 +8,12 @@ excerpt: >
   Crear oportunidades a partir de botellas de plástico.<br />
   <small> Un proyecto de Altebrijes</small>
 feature_row:
-  - image_path: /assets/images/plantas.jpg
+  - image_path: /assets/images/plantas.png
     alt: "customizable"
     title: "Bueno para la Tierra"
     excerpt: "Mantener limpia nuestra naturaleza mediante la reutilización de botellas de plástico"
    
-  - image_path: /assets/images/maracas.jpg
+  - image_path: /assets/images/maracas.png
     alt: "fully responsive"
     title: "Responsive layouts"
     excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
