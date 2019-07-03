@@ -22,7 +22,7 @@ feature_row:
     alt: "100% free"
     title: "100% free"
     excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
-   "      
+        
 ---
 
 {% include feature_row %}
