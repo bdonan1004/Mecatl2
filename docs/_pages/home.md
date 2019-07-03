@@ -11,7 +11,7 @@ feature_row:
   - image_path: /assets/images/plantas.png
     alt: "customizable"
     title: "Bueno para la Tierra"
-    excerpt: "Mantener limpia nuestra naturaleza mediante la reutilización de botellas de plástico 
+    excerpt: "Mantener limpia nuestra naturaleza mediante la reutilización de botellas de plástico"
     url: "/docs/configuration/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
