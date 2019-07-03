@@ -110,11 +110,14 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/mmistakes"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+    - label: "facebook"
+      icon: "fab fa-facebook-square"
       url: "https://github.com/mmistakes"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/mmistakes"
+      label: "Linkdin"
+      icon: "fab fa-linkedin"
       url: "https://instagram.com/mmistakes"
 
 
