@@ -19,8 +19,8 @@ feature_row:
     excerpt: "Usando nuestra gente de productos y hacer una cuerda de botellas y usarla para artesanías y otros usos."
     
   - image_path: /assets/images/monedas.png
-    alt: "Una nueva forma de ganar dinero
-    title: "Monedas"
+    alt: "Monedas"
+    title: "Una nueva forma de ganar dinero"
     excerpt: "Ayudar a la gente a vender sus artesanías para ayudarles a obtener ingresos"
         
 ---
