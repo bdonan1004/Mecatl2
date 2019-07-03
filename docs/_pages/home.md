@@ -7,9 +7,8 @@ header:
   actions:
     - label: "Learn More"
       url: "/docs/quick-start-guide/"
-excerpt: >
- Creación de String a partir de plástico<br />
-  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.16.4">Latest release v4.16.4</a></small>
+excerpt: >creando oportunidades a partir de los residuos plasticos<br />
+
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "customizable"
