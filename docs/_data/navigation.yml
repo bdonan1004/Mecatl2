@@ -21,7 +21,7 @@ foo:
 # main links
 main:
   - title: "Acerca De Nosotros"
-    url: /docs/quick-start-guide/
+    url: /acerca-de-nosotros/
   - title: "Producto"
     url: /about/
   - title: "Instrucciones"

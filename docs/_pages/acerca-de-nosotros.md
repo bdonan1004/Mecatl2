@@ -1,6 +1,6 @@
 ---
-title: "Sample Page"
-permalink: /sample-page/
+title: "Acerca De Nosotros"
+permalink: /acerca-de-nosotros/
 date: 2016-02-24T03:02:20+00:00
 ---
 
