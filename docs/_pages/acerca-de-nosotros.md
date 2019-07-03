@@ -5,8 +5,10 @@ date: 2016-02-24T03:02:20+00:00
 --- 
 
 {% include figure image_path="/assets/images/altebrijes-logo-500px.png" alt="this is a placeholder image" caption="This is a figure caption." %}
+<div style="text-align: justify;">
 
 <h1>QUÉ ESTAMOS HACIENDO?</h1>
+
 
 Tras varios estudios realizados en el Barrio de El Alto de Puebla, el grupo ALTEBRIJES ha detectado grandes márgenes de mejora en lo que al reciclaje se refiere. Gran parte de los residuos generados por los y las vecinos de dicha comunidad están siendo gestionados de una manera poco efiente, lo cual ha arrastrado al barrio a un estado de insalubridad y deterioro patrimonial.
 Los sistemas de gestión y separación de residuos actuales, dejan ver la falta de un nuevo modelo, donde la comunidad pueda reciclar y a su vez generar beneficios, tanto económicos como sociales. 
@@ -25,3 +27,4 @@ Nuestra misión está orientada a recuperar, conservar y generar valor en la com
 
 Como visión de futuro, el Grupo Altebrijes propone una meta ambiciosa. Ser líderes y pioneros en fomentar e implantar un sistema de reciclaje innovador y autogestibo, sin dejar atrás los valores de SOLIDARIDAD, RESPETO y SENSIBILIDAD AMBIENTAL, con los cuales comenzo su iniciativa
 
+</div>
