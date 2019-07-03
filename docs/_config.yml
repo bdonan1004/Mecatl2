@@ -116,7 +116,7 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/mmistakes"
-      label: "Linkdin"
+    - label: "Linkdin"
       icon: "fab fa-linkedin"
       url: "https://instagram.com/mmistakes"
 
