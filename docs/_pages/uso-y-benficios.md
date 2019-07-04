@@ -4,11 +4,6 @@ title: "Uso y Benficios"
 alt: "archive layout example"
 last_modified_at: 2019-04-03T15:15:09-04:00
 
-header:
-  overlay_color: "#5e616c"
-  overlay_image: /assets/images/ab-home-page-feature.jpg
-excerpt: >Crear oportunidades a partir de botellas de plástico.<br />
-  <small> Un proyecto de Altebrijes</small>
 feature_row:
   - image_path: /assets/images/plantas.png
     alt: "Plantas"
