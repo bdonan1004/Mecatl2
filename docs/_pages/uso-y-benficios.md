@@ -1,6 +1,4 @@
-
 ---
-layout: splash
 permalink: /uso-y-benficios/
 header:
   overlay_color: "#5e616c"
