@@ -2,6 +2,7 @@
 title: "Acerca De Nosotros"
 permalink: /acerca-de-nosotros/
 date: 2016-02-24T03:02:20+00:00
+classes: wide
 --- 
 
 {% include figure image_path="/assets/images/altebrijes-logo-500px.png" alt="this is a placeholder image" caption="This is a figure caption." %}
